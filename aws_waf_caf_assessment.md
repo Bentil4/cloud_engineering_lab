@@ -267,4 +267,4 @@ Finally, the CAF analysis demonstrated that governance and security must be esta
 
 ---
 
-*Document prepared in accordance with AWS Well-Architected Framework and AWS Cloud Adoption Framework v3.0 best practices.*
+
